@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\Generics\BoxOfT\bin\Debug\BoxOfT.exe.config
+C:\Users\kaviya\source\repos\Generics\BoxOfT\bin\Debug\BoxOfT.exe
+C:\Users\kaviya\source\repos\Generics\BoxOfT\bin\Debug\BoxOfT.pdb
+C:\Users\kaviya\source\repos\Generics\BoxOfT\obj\Debug\BoxOfT.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\Generics\BoxOfT\obj\Debug\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Generics\BoxOfT\obj\Debug\BoxOfT.exe
+C:\Users\kaviya\source\repos\Generics\BoxOfT\obj\Debug\BoxOfT.pdb

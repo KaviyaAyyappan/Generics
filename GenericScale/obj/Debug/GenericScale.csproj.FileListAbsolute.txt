@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\Generics\GenericScale\bin\Debug\GenericScale.exe.config
+C:\Users\kaviya\source\repos\Generics\GenericScale\bin\Debug\GenericScale.exe
+C:\Users\kaviya\source\repos\Generics\GenericScale\bin\Debug\GenericScale.pdb
+C:\Users\kaviya\source\repos\Generics\GenericScale\obj\Debug\GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Generics\GenericScale\obj\Debug\GenericScale.exe
+C:\Users\kaviya\source\repos\Generics\GenericScale\obj\Debug\GenericScale.pdb
+C:\Users\kaviya\source\repos\Generics\GenericScale\obj\Debug\GenericScale.csprojAssemblyReference.cache
